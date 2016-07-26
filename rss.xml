@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Limbic Notation]]></title>
         <description><![CDATA[Limbic Notation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/limbic-notation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 12:57:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 12:58:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/limbic-notation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c4b371-1a69-4d47-a618-1ab667d57a78.png">]]></description>
+            <link>https://thegrid.ai/limbic-notation/4d145e2e-59da-4c52-a3f8-37a3d695dd96/index.html</link>
+            <guid isPermaLink="false">4d145e2e-59da-4c52-a3f8-37a3d695dd96</guid>
+            <pubDate>Tue, 26 Jul 2016 12:58:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd214740-f99f-4533-b5eb-fddb14914fc4.png">]]></description>
-            <link>undefineda5bad165-4529-47b4-b98a-277c64a3b895/index.html</link>
+            <link>https://thegrid.ai/limbic-notation/a5bad165-4529-47b4-b98a-277c64a3b895/index.html</link>
             <guid isPermaLink="false">a5bad165-4529-47b4-b98a-277c64a3b895</guid>
             <pubDate>Tue, 26 Jul 2016 12:55:59 GMT</pubDate>
         </item>
