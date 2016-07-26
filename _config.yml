@@ -1,0 +1,14 @@
+layout_spectrum: 0.2625990859232843
+typography_spectrum: 0.7090395058039576
+color:
+  brandStrength: 0.8858692063950002
+  lightness: 0.32763326121494174
+  saturation: 0.25864052842371166
+  rhythmicContrast: 0.30577116715721786
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Limbic Notation
